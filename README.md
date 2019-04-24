@@ -1,2 +1,5 @@
-# fullstack-python-session4
-Bootstrap sample project
+# Fullstack python session 4
+___
+## Bootstrap
+
+Happy coding!
